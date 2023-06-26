@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.enlaces  {
+  color: white;
+  text-decoration: none;
+}
+
+.enlaces:visited {
+  color: pink;
+}
+
+.enlaces:hover {
+  color: rgb(201, 255, 192);
+}
+.rojo{
+  background-color: red;
+}
+.verde{
+  background-color: green;
+}
+.no_points {
+  list-style-type: none;
+}
